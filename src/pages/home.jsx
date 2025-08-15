@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom"; // Importation de useNavigate pour la redirection
-import backgroundImage from "../components/background.jpg";
+import backgroundImage from "../components/Background.jpg";
 import logo from "../components/logo.png";
 
 function home() {
