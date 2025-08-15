@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "type": "expression",
+    "titre": "Tâche 1",
+    "min": 60,
+    "max": 120,
+    "consigne": "Rédigez un message pour une agence immobilière pour rechercher un logement à Nice.",
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 2,
+    "type": "expression",
+    "titre": "Tâche 2",
+    "min": 120,
+    "max": 150,
+    "consigne": "Écrivez une lettre pour partager votre expérience sur un cours en ligne.",
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 3,
+    "type": "expression",
+    "titre": "Tâche 3",
+    "min": 120,
+    "max": 180,
+    "consigne": "Décrivez votre point de vue sur la chasse aux animaux, en vous appuyant sur les documents fournis.",
+    "idCandidat": "Candidat_X"
+  }
+]

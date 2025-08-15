@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "text": "Les horaires du service consulaire : Le service est ouvert de 8h à 14h du lundi au jeudi...",
+    "question": "Quand le service est-il fermé au public ?",
+    "options": [
+      "Le lundi matin",
+      "Le mardi matin",
+      "Le mercredi matin",
+      "Le jeudi matin"
+    ],
+    "correctAnswer": "Le lundi matin",
+    "idCandidat": "Candidat_X",
+    "points": 5
+  },
+  {
+    "id": 2,
+    "text": "Les horaires du service consulaire : Le service est ouvert de 8h à 14h du lundi au jeudi...",
+    "question": "Quelle est la plage horaire de fermeture du service ?",
+    "options": [
+      "14h-15h",
+      "13h-14h",
+      "12h-13h",
+      "9h-12h"
+    ],
+    "correctAnswer": "13h-14h",
+    "idCandidat": "Candidat_X",
+    "points": 3
+  }
+]

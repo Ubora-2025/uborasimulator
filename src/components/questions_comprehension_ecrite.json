@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "text": "Les horaires du service consulaire : Le service est ouvert de 8h à 14h du lundi au jeudi...",
+    "question": "Quand le service est-il fermé au public ?",
+    "options": [
+      "Le lundi matin",
+      "Le mardi matin",
+      "Le mercredi matin",
+      "Le jeudi matin"
+    ],
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 2,
+    "text": "Le restaurant d'entreprise est ouvert du lundi au vendredi de 12h à 14h...",
+    "question": "Que peut-on faire dans ce lieu ?",
+    "options": [
+      "Boire un thé l'après-midi",
+      "Partager un repas entre amis le soir",
+      "Manger à midi",
+      "Goûter avec des enfants"
+    ],
+    "idCandidat": "Candidat_X"
+  }
+]

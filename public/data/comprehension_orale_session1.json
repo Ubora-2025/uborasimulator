@@ -1,0 +1,553 @@
+[
+  {
+    "id": 1,
+    "audio": "assets/audio/Test8Q1.mp3",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswer": "D",
+    "selectedOption": "",
+    "points": 2,
+    "image": "/images/question1.jpg",
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 2,
+    "audio": "assets/audio/Test8Q2.mp3",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "image": "/images/question2.jpg",
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 3,
+    "audio": "assets/audio/Test8Q3.mp3",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "image": "/images/question3.jpg",
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 4,
+    "audio": "assets/audio/Test8Q4.mp3",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswer": "A",
+    "selectedOption": "",
+    "points": 2,
+    "image": "/images/question4.jpg",
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 5,
+    "audio": "assets/audio/Test8Q5.mp3",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "image": "/images/question5.jpg",
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 6,
+    "audio": "assets/audio/Test8Q6.mp3",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 7,
+    "audio": "assets/audio/Test8Q7.mp3",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 8,
+    "audio": "assets/audio/Test8Q8.mp3",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswer": "B",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 9,
+    "audio": "assets/audio/Test8Q9.mp3",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswer": "A",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 10,
+    "audio": "assets/audio/Test8Q10.mp3",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswer": "A",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 11,
+    "audio": "assets/audio/Test8Q11.mp3",
+    "options": [
+      "Il aura la visite de sa famille.",
+      "Il fera une compétition.",
+      "Il pourra travailler au calme.",
+      "Il sera en vacances."
+    ],
+    "correctAnswer": "A",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 12,
+    "audio": "assets/audio/Test8Q12.mp3",
+    "options": [
+      "Il baisse le volume.",
+      "Il change de wagon.",
+      "Il éteint son appareil.",
+      "Il met un casque."
+    ],
+    "correctAnswer": "B",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 13,
+    "audio": "assets/audio/Test8Q13.mp3",
+    "options": [
+      "Aller au 2e étage.",
+      "Monter à pied.",
+      "Prendre l’ascenseur.",
+      "Passer par la cafétéria."
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 14,
+    "audio": "assets/audio/Test8Q14.mp3",
+    "options": [
+      "La mission est sans intérêt.",
+      "La société est loin de chez lui.",
+      "Le contrat est temporaire.",
+      "Le salaire est insuffisant."
+    ],
+    "correctAnswer": "D",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 15,
+    "audio": "assets/audio/Test8Q15.mp3",
+    "options": [
+      "Elle a cessé son téléphone.",
+      "Elle a raté un appel important.",
+      "Elle n’a pas été invitée à un anniversaire.",
+      "Elle n’a pas eu l’appel espéré."
+    ],
+    "correctAnswer": "D",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 16,
+    "audio": "assets/audio/Test8Q16.mp3",
+    "options": [
+      "Il aura lieu plus tard dans le semestre.",
+      "Il évaluera le chapitre des maladies.",
+      "Il se fera dans le grand amphithéâtre.",
+      "Il sera corrigé par un enseignant extérieur."
+    ],
+    "correctAnswer": "A",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 17,
+    "audio": "assets/audio/Test8Q17.mp3",
+    "options": [
+      "Devoir annuler son voyage.",
+      "Devoir visiter les musées.",
+      "Devoir écourter leur séjour.",
+      "Devoir partir en voiture."
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 18,
+    "audio": "assets/audio/Test8Q18.mp3",
+    "options": [
+      "Le prix élevé des produits.",
+      "Les délais pour être livrée.",
+      "Les difficultés en cas d’échange.",
+      "Les tailles de vêtements différentes."
+    ],
+    "correctAnswer": "B",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 19,
+    "audio": "assets/audio/Test8Q19.mp3",
+    "options": [
+      "Le recrutement se fonde sur l’expérience.",
+      "Les salaires à l’embauche sont très élevés.",
+      "L’évolution professionnelle est très lente.",
+      "L’obtention d’un premier emploi est aisée."
+    ],
+    "correctAnswer": "A",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 20,
+    "audio": "assets/audio/Test8Q20.mp3",
+    "options": [
+      "Il fait plus beau qu’hier.",
+      "Il fait plus mauvais qu’hier.",
+      "Il pleut plus qu’hier.",
+      "Il y a moins de soleil qu’hier."
+    ],
+    "correctAnswer": "B",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 21,
+    "audio": "assets/audio/Test8Q21.mp3",
+    "options": [
+      "Des habitants ont voté pour un maire écologiste.",
+      "Les écologistes refusent la construction d’une autoroute.",
+      "L’Union européenne veut faire construire une autoroute.",
+      "Un maire propose d’ouvrir une réserve naturelle."
+    ],
+    "correctAnswer": "A",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 22,
+    "audio": "assets/audio/Test8Q22.mp3",
+    "options": [
+      "Pour apprendre les termes spécifiques de la plomberie.",
+      "Pour économiser les frais d’un dépannage par un artisan.",
+      "Pour être autonome face aux petits travaux de la maison.",
+      "Pour rencontrer d’autres femmes ayant la même passion."
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 23,
+    "audio": "assets/audio/Test8Q23.mp3",
+    "options": [
+      "Un point de vue sur la situation mondiale aujourd’hui.",
+      "Une analyse de l’actualité économique dans le monde.",
+      "Une critique des conséquences de la mondialisation.",
+      "Une réflexion sur les relations politiques mondiales."
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 24,
+    "audio": "assets/audio/Test8Q24.mp3",
+    "options": [
+      "De disposer d’une petite surface.",
+      "De partager sa salle de bain.",
+      "De payer un loyer excessif.",
+      "De prendre ses repas seule."
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 25,
+    "audio": "assets/audio/Test8Q25.mp3",
+    "options": [
+      "Elle a changé de cursus universitaire.",
+      "Elle a rencontré des gens étonnants.",
+      "Elle a suivi des enseignements variés.",
+      "Elle a trouvé le niveau des cours facile."
+    ],
+    "correctAnswer": "B",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 26,
+    "audio": "assets/audio/Test8Q26.mp3",
+    "options": [
+      "Avoir la liberté d’être son propre patron.",
+      "Innover dans le domaine informatique.",
+      "Mener un projet aux États-Unis.",
+      "Mieux réussir que ses parents."
+    ],
+    "correctAnswer": "A",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 27,
+    "audio": "assets/audio/Test8Q27.mp3",
+    "options": [
+      "Des besoins énergétiques des jeunes.",
+      "Des bons réflexes pour les repas.",
+      "Des comportements alimentaires.",
+      "Des conseils de préparation culinaire."
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 28,
+    "audio": "assets/audio/Test8Q28.mp3",
+    "options": [
+      "De devenir entrepreneur en créant son entreprise.",
+      "De s’informer sur les secteurs porteurs d’emplois.",
+      "De suivre une formation diplômante à l’université.",
+      "D’élargir sa recherche d’emploi à d’autres domaines."
+    ],
+    "correctAnswer": "B",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 29,
+    "audio": "assets/audio/Test8Q29.mp3",
+    "options": [
+      "L’absence d’éléments ornementaux.",
+      "La limitation du nombre d’étages.",
+      "Le respect d’obligations légales.",
+      "L’utilisation d’un matériau unique."
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 30,
+    "audio": "assets/audio/Test8Q30.mp3",
+    "options": [
+      "Un groupe de centres d’appels téléphoniques.",
+      "Un service de livraison express du courrier.",
+      "Un spécialiste de la création de sites internet.",
+      "Un fournisseur pour la restauration à domicile."
+    ],
+    "correctAnswer": "B",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 31,
+    "audio": "assets/audio/Test8Q31.mp3",
+    "options": [
+      "C’est un temps de découverte et l’humanité.",
+      "C’est une occasion de dépenser son énergie.",
+      "C’est une opportunité d’apprécier la solitude.",
+      "C’est une possibilité quotidienne d’évasion."
+    ],
+    "correctAnswer": "D",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 32,
+    "audio": "assets/audio/Test8Q32.mp3",
+    "options": [
+      "Elles appuient leur gestion sur la concertation.",
+      "Elles garantissent des évolutions de carrière.",
+      "Elles œuvrent dans des secteurs traditionnels.",
+      "Elles s’engagent dans des projets audacieux."
+    ],
+    "correctAnswer": "A",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 33,
+    "audio": "assets/audio/Test8Q33.mp3",
+    "options": [
+      "La conférence qui a eu lieu est uniquement symbolique.",
+      "La secrétaire d’État a fait part de son pessimisme.",
+      "Les discussions s’annoncent longues et difficiles.",
+      "Tous les points de l’accord ont déjà été traités sans succès."
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 34,
+    "audio": "assets/audio/Test8Q34.mp3",
+    "options": [
+      "Durcir les normes appliquées à la fabrication de voitures.",
+      "Inciter les usagers à pratiquer d’autres modes de déplacement.",
+      "Pousser les industriels à employer des technologies innovantes.",
+      "Rendre obligatoire l’utilisation de carburants propres."
+    ],
+    "correctAnswer": "B",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 35,
+    "audio": "assets/audio/Test8Q35.mp3",
+    "options": [
+      "Animer des ateliers d’écriture thématiques.",
+      "Faire connaître de jeunes philosophes talentueux.",
+      "Organiser des lecteurs pendant les repas de midi.",
+      "Trouver des solutions aux difficultés quotidiennes."
+    ],
+    "correctAnswer": "A",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 36,
+    "audio": "assets/audio/Test8Q36.mp3",
+    "options": [
+      "Favoriser la visibilité des ouvrages peu accessibles.",
+      "Intervenir dans le choix des publications à venir.",
+      "Modifier notre regard sur les livres « grand public ».",
+      "Soutenir les petits éditeurs et leurs parutions."
+    ],
+    "correctAnswer": "D",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 37,
+    "audio": "assets/audio/Test8Q37.mp3",
+    "options": [
+      "La relation liant Camille Claudel et Rodin.",
+      "La richesse du musée Auguste Rodin.",
+      "Les difficultés rencontrées par Rodin.",
+      "Les sources d’inspiration de Rodin."
+    ],
+    "correctAnswer": "A",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 38,
+    "audio": "assets/audio/Test8Q38.mp3",
+    "options": [
+      "Ils font l’objet de manipulations douteuses par les pollueurs.",
+      "Ils répondent à des critères insuffisamment exigeants.",
+      "Ils sont destinés à justifier les politiques économiques.",
+      "Ils sont publiés par des organismes liés aux entreprises."
+    ],
+    "correctAnswer": "B",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  },
+  {
+    "id": 39,
+    "audio": "assets/audio/Test8Q39.mp3",
+    "options": [
+      "La réalisation est trop extravagante.",
+      "L’actrice principale est omniprésente.",
+      "Le montage manque de cohérence.",
+      "Le scénario manque de singularité."
+    ],
+    "correctAnswer": "C",
+    "selectedOption": "",
+    "points": 2,
+    "idCandidat": "Candidat_X"
+  }
+]

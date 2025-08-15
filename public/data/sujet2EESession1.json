@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "expression",
+    "titre": "Tâche 1",
+    "min": 60,
+    "max": 120,
+    "consigne": "Rédigez un message pour une agence immobilière pour rechercher un logement à Nice."
+  },
+  {
+    "id": 2,
+    "type": "expression",
+    "titre": "Tâche 2",
+    "min": 120,
+    "max": 150,
+    "consigne": "Écrivez une lettre pour partager votre expérience sur un cours en ligne."
+  },
+  {
+    "id": 3,
+    "type": "expression",
+    "titre": "Tâche 3",
+    "min": 120,
+    "max": 180,
+    "consigne": "Décrivez votre point de vue sur la chasse aux animaux, en vous appuyant sur les documents fournis.\n\nDocument 1 :\nTous les ans, en hiver, je donne un peu de mon temps et de mon argent pour aider les personnes qui vivent dans la rue et ont froid. Pour moi, c’est important de se soucier de ceux qui sont dans le besoin. Je trouve très important de donner quelques dollars à ces personnes ou aux associations qui peuvent les aider. Et puis, cette action me donne l’impression d’être utile, au moins une fois dans l’année ! C’est un geste de solidarité qui est à la portée de tout le monde.\n\nDocument 2 :\nPierre, 65 ans : Plutôt que de donner de l’argent à des personnes pauvres, il vaudrait mieux revoir notre mode de vie. C’est pourquoi je préfère m’engager au quotidien dans une association de mon quartier, où je suis bénévole. Les sans domicile fixe ont besoin d’un logement et d’un travail et pas seulement d’argent. Il faut les aider à devenir autonomes. C’est le but d’organismes qui aident ceux qui sont dans la rue à trouver un emploi. Donner de l’argent est un acte inutile qui sert seulement à apaiser notre conscience."
+  }
+]
