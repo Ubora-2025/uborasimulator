@@ -21,7 +21,8 @@ function Login() {
     setError(""); // Réinitialiser l'erreur
 
     try {
-      const res = await axios.post("/api/login", { email, password });
+      const res = await axios.post(`${process.env.REACT_APP_API_URL}/login`, { email, password });
+
 
       // Si l'utilisateur n'est pas un candidat, on l'informe
       if (res.data.role !== "candidat") {
